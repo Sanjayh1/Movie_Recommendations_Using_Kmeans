@@ -1,4 +1,4 @@
-# Film_Recommendation_Using_Kmeans
+# Movie_Recommendations_Using_Kmeans
 
 # Purpose
 - To apply k-means clustering, an algorithm I have learnt in Linear Algebra class and use it to create a simple movie recommendation system
